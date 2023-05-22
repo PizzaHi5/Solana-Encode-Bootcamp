@@ -1,0 +1,35 @@
+Homework 1
+
+. Fill in the Sli.do Poll about your goals for this course
+https://app.sli.do/event/mPfGepzL6ifC6GY3HCdNrg/polls
+-   Filled out the form
+
+. Discuss in your teams what a decentralised version of a game like monopoly would be like, if
+there was no software on a central server.
+-   No teams have been formed yet, team formation to-be-determined
+
+Consider
+What are the essential pieces of functionality ?
+-   Transparency
+-   Decentralization
+-   Border-less Worldwide Access to transfer financial value
+
+How could people cheat ?
+-   Break sha256
+-   Exploit smart contract code
+-   Exploit business logic
+-   Exploit blockchain mechanics
+
+How could you prevent them from cheating ?
+-   Enhance encryption
+-   Smart contract auditing
+-   Redesign blockchain mechanisms
+
+This is just a general discussion, there is no need to write any code or do any design.
+. Do you feel that Central Bank Digital Currencies (CBDCs) are a move towards
+decentralisation? Will they help or hinder adoption of other cryptocurrencies?
+-   CBDCs are a centralization effort to increase government financial power. They will significantly improve mass
+    adoption of blockchain systems for financial applications. I believe the entire web3 industry will benefit from CBDCs! 
+
+4. Listen to the Zero knowledge episode about Solana Decentralised Systems
+https://zeroknowledge.fm/135-2/
