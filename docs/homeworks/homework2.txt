@@ -1,0 +1,22 @@
+Homework 2
+Solana Ecosystem
+. How many validators are there currently ?
+
+. What is special about this block?
+https://explorer.solana.com/block/0
+
+. What is special about this address?
+https://explorer.solana.com/address/1nc1nerator11111111111111111111111111111111
+
+. What is this transaction doing ?
+https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf
+
+. What is the largest account you can find ?
+. What advantages will the end user see when using Solana compared to other blockchains ?
+. Install Rust in preparation for tomorrow's lesson,
+. Follow these instructions for Mac / Linux
+https://www.rust-lang.org/tools/install
+. See these instructions for Windows
+https://forge.rust-lang.org/infra/other-installation-methods.html
+. Alternatively use gitpod for a linux environment
+https://gitpod.io/#/https://github.com/ExtropyIO/SolanaBootcamp
