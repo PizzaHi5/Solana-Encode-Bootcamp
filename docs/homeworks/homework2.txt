@@ -4,15 +4,25 @@ Solana Ecosystem
 
 . What is special about this block?
 https://explorer.solana.com/block/0
+-   This is the genesis block! The very first block of the SOL blockchain. 
 
 . What is special about this address?
 https://explorer.solana.com/address/1nc1nerator11111111111111111111111111111111
+-   This address of very unique, Looks like this is the address to 'burn' SOL tokens to. 
 
 . What is this transaction doing ?
-https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf
+https://explorer.solana.com/tx/
+-   Looks like the system program address burned 11.3 million SOL. 
 
 . What is the largest account you can find ?
+-   5/23/23
+    9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM holds 17,718,952 SOL representing 3.46% of total supply. 
+    This is equivalent to $354 million USD!
+
 . What advantages will the end user see when using Solana compared to other blockchains ?
+-   SOLs focus is scalability. This blockchain will be used to process as many transactions as possible very quickly 
+    leading to extremely low transaction fees for the users and high processing throughput. 
+
 . Install Rust in preparation for tomorrow's lesson,
 . Follow these instructions for Mac / Linux
 https://www.rust-lang.org/tools/install
@@ -20,3 +30,5 @@ https://www.rust-lang.org/tools/install
 https://forge.rust-lang.org/infra/other-installation-methods.html
 . Alternatively use gitpod for a linux environment
 https://gitpod.io/#/https://github.com/ExtropyIO/SolanaBootcamp
+-   Uninstalled rustc which I apparently had on my computer b4 this. Installed rustup.
+    'rustc --version' worked.
