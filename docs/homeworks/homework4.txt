@@ -1,0 +1,28 @@
+Homework 4
+Sending lamports
+Using the command line tool, send your colleagues some lamports. Check your balance and your
+colleagues balance before and after.
+Sent some lamports to Logan! 
+https://explorer.solana.com/tx/4WvT4cr7SytK2Db6ANeYKK7G54CEihF3yoHHdYuxSs2jkRwk1hDKr8fGh8S1DCxv26D4EtdA5c74caZN2AxnmpWG?cluster=devnet
+Ran:
+solana transfer --from solana-wallet/my-keypair.json CcPDbb1KyuTMiCWqSS4HENL81pqQjTYvnfgjnbgfZHX 0.01 --fee-payer solana-wallet/my-keypair.json
+
+Teammates sent me some lamports too! My balance went up!
+solana balance 626hG9Hh8YGJ6R7AtFSj2bdiY4ZNErYjvjPGDpvKzzQM --url https://api.devnet.solana.com
+
+Break Solana Game
+In your teams try the Break Solana game on one of the Test networks. Post a screen shot of your
+team's highest score on Discord.
+https://break.solana.com/wallet?cluster=devnet
+-   Saw many examples of sending more transactions than is processable on Eth or Btc per second!
+    In 15seconds, I sent 135% of Eth capacity and 440% of Btc capacity. Used 0.041% of Solana capacity!
+
+Fizz buzz program
+1. Create a project called bootcamp using Cargo
+2. The main function should print a welcome message.
+3. Write a 'fizz buzz' function that will be called from your main function.
+1. The function should have a loop counting up to 301
+2. If the count is divisible by 3, print "fizz"
+3. If the count is divisible by 5 print "buzz"
+4. If the count is divisible by 3 and 5 print "fizz buzz"
+5. At the end print the number of times "fizz buzz" occurred.
