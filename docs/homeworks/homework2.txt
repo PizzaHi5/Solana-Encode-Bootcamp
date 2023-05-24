@@ -1,6 +1,7 @@
 Homework 2
 Solana Ecosystem
 . How many validators are there currently ?
+-   1813 validator count currently, 5/23/23
 
 . What is special about this block?
 https://explorer.solana.com/block/0
