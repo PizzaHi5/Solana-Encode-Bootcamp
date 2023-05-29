@@ -26,3 +26,9 @@ Fizz buzz program
 3. If the count is divisible by 5 print "buzz"
 4. If the count is divisible by 3 and 5 print "fizz buzz"
 5. At the end print the number of times "fizz buzz" occurred.
+-   I called this project "hw4" in the hw/ folder. 
+-   It took a lot of time for me to start to pick up on the syntax for a new language. Happily, the syntax is not too foreign for me.
+    Cairo and Noir have very similar syntax since those are ZK languages using Rust-like syntax. I am starting to get the hang of using
+    this style. I used a lot of <> to specify my values. Did some research to dig into using RangeInclusive<i32> for this problem. That
+    way I could specify the 301 sized vector right away and iterate through that vector. I got an answer of 20! Glad I got this to work :)
+    Use 'cargo run' to see the result. 
