@@ -1,5 +1,7 @@
 [workspace]
 members = [
     "hw/hw4",
+    "hw/hw5_6_7",
+    "hw/hw5_6_7/SolanaBootcamp/homeworks_rust",
 ]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

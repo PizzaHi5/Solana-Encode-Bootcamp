@@ -1,0 +1,23 @@
+Homework 5
+We will do exercises in this repo
+https://github.com/ExtropyIO/SolanaBootcamp/tree/main/homeworks_rust/homeworks
+
+The rust exercises are in a folder homework_rust
+. Install the exercises and fix the path
+2. Run interactive homework window
+
+rustlings homework 5
+The current exercise is stated in the hint command, below for example it is exercise ``option2.
+The shell will display which exercises has either failed at compilation or at testing.
+Modify the file and if it passes all the tests remove this line:
+That will take you to the next file to fix.
+The exercises are based on the rustlings exercises, but I have adapted them to follow the lessons.
+cargo install --force --path .
+2 | // Make me compile! Execute `rustlings hint option2` for hints
+3 |
+4 | // I AM NOT DONE
+5 |
+// I AM NOT DONE
+
+You can use this gitpod environment
+https://gitpod.io/#https://github.com/ExtropyIO/SolanaBootcamp

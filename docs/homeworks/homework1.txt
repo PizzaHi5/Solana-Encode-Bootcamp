@@ -6,7 +6,9 @@ https://app.sli.do/event/mPfGepzL6ifC6GY3HCdNrg/polls
 
 . Discuss in your teams what a decentralised version of a game like monopoly would be like, if
 there was no software on a central server.
--   No teams have been formed yet, team formation to-be-determined
+-   No teams have been formed yet, team formation to-be-determined.
+-   There needs to be agreements / videos around looking at when ppL roll the dice. VRF is a
+    good approach to ensure no cheatings going on. 
 
 Consider
 What are the essential pieces of functionality ?
