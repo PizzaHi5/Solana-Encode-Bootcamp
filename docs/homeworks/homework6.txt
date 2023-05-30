@@ -1,0 +1,4 @@
+Homework 6
+. Continue the rustlings exercises, todays exercises are in directory homework6
+To run today's exercises do
+rustlings homework 6
