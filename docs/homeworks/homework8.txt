@@ -1,0 +1,33 @@
+Homework 8 - DeFi / Token Program
+General Questions (Discuss in your teams)
+1. How in practice can the DEX design differ between Solana and Ethereum?
+-   DEX design in Solana must account for the SeaLevel Parallel Runtime. Swapped tokens must be 
+    accounted for in parallel between nodes. Each node is run in sequence. Most tokens on Solana
+    are Upgradable so DEXs should account for this. 
+
+. What features would you look for when selecting a Solana wallet?
+-   The ease in keypair generation is nice. 
+    1. Does any wallet have all these features ?
+    -   Most wallets have NFT displays, built in DEX, account balance display, and account activity
+        when using this app. 
+    . Which wallet have you chosen ?
+    -   I have been using Phantom for SOL
+
+. How is the token functionality design process different on Solana?
+-   Since all tokens are Upgradable by default, token immutability must be designed for in Solana.
+    Eth is the opposite.
+
+. Which Solana DeFi project has the most value locked ?
+-   Checked defillama, highest TVL is Marinade.Finance. Liquid staking is the hot new things atm. 
+    Highest 2 TVLs are liquid staking on SOL. 
+
+. What difference do low fees on a blockchain make to trading strategies ?
+-   Low fees = essential. Many strategies require trading frequently so high fees = not usable. 
+
+Tasks
+1. Follow the instructions from the lesson and use the spl-token-cli to create
+a) A fungible token with a supply of 10,000
+b) An NFT
+. Try sending these tokens to others in your team , and use the command line to find details about
+the tokens.
+. Try sending using both the transfer and transfer --fund-recipient approach.

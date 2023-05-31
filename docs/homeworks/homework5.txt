@@ -21,3 +21,7 @@ cargo install --force --path .
 
 You can use this gitpod environment
 https://gitpod.io/#https://github.com/ExtropyIO/SolanaBootcamp
+-   Got the interactive environment to work on my local linux machine. Had to shift to a different
+    repo than I usually use since 'rustlings watch' command doesnt work between Windows and WSL. 
+    Now that thats working, I progressed thru the lessons much faster than needing to keep running
+    'rustlings verify' which executed every test file very slowly. 
