@@ -1,0 +1,10 @@
+Homework 7
+. Continue the rust exercises,
+rustlings homework 7
+. Try the Solana playground, use the default example to get familiar with the workflow.
+3. Write a program in Rust that takes 3 strings as command line inputs and then prints the values.
+You will need to look at the env module
+See env
+https://beta.solpg.io/
+https://doc.rust-lang.org/std/env/index.html
+
