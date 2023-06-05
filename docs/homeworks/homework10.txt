@@ -1,0 +1,8 @@
+Homework 10
+. Pull the latest changes from the repo
+https://github.com/ExtropyIO/SolanaBootcamp
+. There is an new example : example3-multifunc
+3. Fill in the code marked TODO so that the program works when separated into modules.
+See instructions in Lesson 9 notes for details on installing the exercise.
+You can use gitpod
+gitpod.io/#/https://github.com/ExtropyIO/SolanaBootcamp
