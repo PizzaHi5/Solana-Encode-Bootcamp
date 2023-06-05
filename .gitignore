@@ -1,2 +1,5 @@
 # secret(not-secret) keys
 solana-wallet/
+
+# secrets
+.env

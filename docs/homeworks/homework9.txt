@@ -1,10 +1,17 @@
 Homework 9
 Tasks
 1. Modify the existing msg! in example1-helloworld to log the program ID.
+-   Executed this in a separate local linux directory. In the main.rs file, added a line to 
+    log out the programId in the 'solana logs'
+
 2. Retrieve the total program size of example1-helloworld.
 . Retrieve the lamport balance of example2-counter.
+-   
+
 . Modify the client for example2-counter to feed an incorrect address for the greeting account
 to the program.
+-   
+
 hint use
 solana account <ADDRESS>
 to find out more about a given address content
