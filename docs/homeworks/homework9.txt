@@ -2,15 +2,28 @@ Homework 9
 Tasks
 1. Modify the existing msg! in example1-helloworld to log the program ID.
 -   Executed this in a separate local linux directory. In the main.rs file, added a line to 
-    log out the programId in the 'solana logs'
+    log out the programId in the 'solana logs'. Figured out that I need the 'to_string' ending.
+    This was my output for example1:
+    Program log: This is the program id: AvqdBMVxjJXQqzb5zqHySHgJffP3fjdi9Eb4o8eApKYK
 
 2. Retrieve the total program size of example1-helloworld.
+-   Learned that program size can be estimated before deployment and known after deployment.
+    due to code complexity, dependencies, and compiler optimizations. 
+    The 'solana_sdk' crate's 'get_program_data_len' would help wih this however installing the 
+    crate in the SolanaBootcamp repo proved to cause a lot of problems with compiling so I did 
+    not opt for that. 
+
 . Retrieve the lamport balance of example2-counter.
--   
+-   Created account: BdCD6uGFfcn3h3a5Dmhr9hPUYpY6AZTuQuyVSgiQwyQ4 to say hello to 
+    with programID: 7nwyUbWUXohzTTbjtNiXVaDsNRxgFrjxrydsRU45kqRA
+-   Ran 'solana balance BdCD6uGFfcn3h3a5Dmhr9hPUYpY6AZTuQuyVSgiQwyQ4': it returned 0.00091872 SOL
 
 . Modify the client for example2-counter to feed an incorrect address for the greeting account
 to the program.
--   
+-   Upon supplying the incorrect key-pair, the program redeployed the counter program as it should.
+    However, upon calling the program again, the transaction succeeded but the counter was not 
+    incremented. This makes sense since the keypair I switched to was the 'hello-world' program. 
+    Hello-world did not have a counter storage.
 
 hint use
 solana account <ADDRESS>
