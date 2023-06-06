@@ -2,6 +2,10 @@ Homework 11
 1. Try a simple client transaction in Solana playground (https://beta.solpg.io/)
 1. Make sure you are connected to the devnet and you have a wallet set up
 . Run the default client code, this will tell you your balance.
+-   client.ts:
+        My address: 9MHC1LAKQuXcUhy66pz75y4RBQeKS2Jw5bM2s8rgEd49
+        My balance: 0 SOL
+
 . Create an airdrop signature and request the airdrop from the connection object
 pg.connection.requestAirdrop you will need to add your public key and the number of
 lamports you want.

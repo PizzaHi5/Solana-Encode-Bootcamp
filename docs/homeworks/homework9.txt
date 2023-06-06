@@ -13,6 +13,12 @@ Tasks
     crate in the SolanaBootcamp repo proved to cause a lot of problems with compiling so I did 
     not opt for that. 
 
+-   Useful information I learned recently from one of the instuctors on how to approach this task.
+    -   If you want the size of the program `solana program show ` can show you the data length of 
+        the program in bytes. If you want to calculate the size you need to allocate for data in a 
+        PDA account check the space references here:
+        https://book.anchor-lang.com/anchor_references/space.html
+
 . Retrieve the lamport balance of example2-counter.
 -   Created account: BdCD6uGFfcn3h3a5Dmhr9hPUYpY6AZTuQuyVSgiQwyQ4 to say hello to 
     with programID: 7nwyUbWUXohzTTbjtNiXVaDsNRxgFrjxrydsRU45kqRA
