@@ -6,3 +6,6 @@ https://github.com/ExtropyIO/SolanaBootcamp
 See instructions in Lesson 9 notes for details on installing the exercise.
 You can use gitpod
 gitpod.io/#/https://github.com/ExtropyIO/SolanaBootcamp
+-   The instructor accidently gave out the completed sample version of the codebase.
+    I spent time looking at the design layout of the programs since this is the common
+    format used in Solana program design.
