@@ -4,5 +4,5 @@ solana-wallet/
 # secrets
 .env
 
-#git cloens
-hw/hw12/hello-anchor/
+#anchor inits - since they are all submodules and cannot be directly imported in
+hw/hw12/hw13/
