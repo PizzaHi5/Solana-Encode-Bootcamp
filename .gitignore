@@ -3,3 +3,6 @@ solana-wallet/
 
 # secrets
 .env
+
+#git cloens
+hw/hw12/hello-anchor/

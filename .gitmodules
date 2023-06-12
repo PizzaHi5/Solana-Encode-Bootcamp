@@ -1,0 +1,3 @@
+[submodule "hw/hw12/hello-anchor"]
+	path = hw/hw12/hello-anchor
+	url = https://github.com/YosephKS/hello-anchor

@@ -16,3 +16,10 @@ npm run deploy:6
 npm run call:6
 4. Anchor : Create a hello world project, follow the instructions here
 https://book.anchor-lang.com/getting_started/hello_anchor.html
+-   Downloaded latest anchor version and initiated repo hello_anchor in the 
+    hw/hw12/. Followed the guide till I reached the tic-tac-toe example. 
+    Had some trouble uploading the repo since its a git clones. This is the
+    cloned repo: https://github.com/YosephKS/hello-anchor
+-   I learned that the issue seems to be that repos initated with 'anchor init <name>'
+    do not have a commit checked out by default. They must be added as submodules which
+    are not visible w/in this repo. 
