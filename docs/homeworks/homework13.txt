@@ -1,0 +1,13 @@
+Homework 13
+1. Use the Anchor command line tools to create a new project.
+. Adapt the default program as follows
+1. In an account we want to store a balance of type u64
+. On initialisation, this balance should be set to 100
+. Write a test to check that the balance was initialised correctly.
+
+
+Lottery Program
+From the Bootcamp repo, anchor examples
+https://github.com/ExtropyIO/SolanaBootcamp/tree/main/examples_anchor
+1. Modify the lottery program so that the payout is only 90% of the total deposits.
+. Add a function that allows lottery admin to withdraw funds after the winner is picked.
