@@ -1,0 +1,6 @@
+Homework 14
+Further develop the program you wrote yesterday
+1. Add a function to allow the balance to be updated in steps of 100 up to a maximum of 1000.
+. If you try to update the balance when it is at its maximum value, throw a custom error with an
+appropriate error message.
+. What constraints should your program have ?
