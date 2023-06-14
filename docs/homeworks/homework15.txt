@@ -1,0 +1,9 @@
+Homework 15
+. Discuss in your teams
+. Should projects spend more on security ?
+. What measures would you take to improve security ?
+. Should bounties be paid to attackers after the exploit ?
+. Look through the example code in the repo, can you find any potential issues ? Think particularly
+about the flow of the lottery game.
+. Install the Neodyme workshop and watch the video explaining the first vulnerability
+https://workshop.neodyme.io/index.html
