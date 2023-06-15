@@ -1,9 +1,23 @@
 Homework 15
 . Discuss in your teams
 . Should projects spend more on security ?
+-   Yes, currently a lot of hacked projects did not get audits. Audits are very helpful in avoiding
+    issues forward. Some team members comment that companies purposely avoid security up front.
+    Its about MVPs for getting investment. 
+
 . What measures would you take to improve security ?
+-   rekt.com seeing new hacks
+-   looking at security audits thru secureum
+-   practice auditing thru open-source auditing companies like code4arena 
+
 . Should bounties be paid to attackers after the exploit ?
+-   Yes, getting a bounty for finding a security hole is good in my opinion. Every situation is different
+    however, generally speaking, ppL should be incentivized to find security holes and fix the problem.
+
 . Look through the example code in the repo, can you find any potential issues ? Think particularly
 about the flow of the lottery game.
+-   Potential Issues with this repo:
+
+
 . Install the Neodyme workshop and watch the video explaining the first vulnerability
 https://workshop.neodyme.io/index.html
