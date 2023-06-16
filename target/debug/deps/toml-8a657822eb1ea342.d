@@ -1,0 +1,12 @@
+/mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/deps/toml-8a657822eb1ea342.rmeta: /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/lib.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/value.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/datetime.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/ser.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/de.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/tokens.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/macros.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/spanned.rs
+
+/mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/deps/toml-8a657822eb1ea342.d: /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/lib.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/value.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/datetime.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/ser.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/de.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/tokens.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/macros.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/spanned.rs
+
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/lib.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/value.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/datetime.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/ser.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/de.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/tokens.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/macros.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/spanned.rs:

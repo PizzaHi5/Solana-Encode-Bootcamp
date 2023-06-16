@@ -1,0 +1,11 @@
+/mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/deps/console-4ab31d62e3d7f5a7.rmeta: /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs
+
+/mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/deps/console-4ab31d62e3d7f5a7.d: /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs
+
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs:

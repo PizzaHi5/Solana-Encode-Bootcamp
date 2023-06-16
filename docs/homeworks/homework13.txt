@@ -4,7 +4,12 @@ Homework 13
 1. In an account we want to store a balance of type u64
 . On initialisation, this balance should be set to 100
 . Write a test to check that the balance was initialised correctly.
-
+-   I had a very difficult time getting a new anchor repo setup with 'anchor init hw13'.
+    Somehow the way I modified the repo messed up how it works. I learned that changing 
+    edition 2021 to rust-version 1.70.0 will not work because they do not mean the same
+    thing. Changing the anchor-lang to 0.28.0 made it compile much faster however always
+    compiled with an error. I am glad I got it working! 6/16/23
+    
 
 Lottery Program
 From the Bootcamp repo, anchor examples

@@ -1,0 +1,15 @@
+/mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/deps/escargot-d60a34f9c890599b.rmeta: /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/lib.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/build.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/cargo.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/msg.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/run.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/error.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/mod.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/diagnostic.rs /mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/build/escargot-4fa151a6775ea908/out/current_target.txt
+
+/mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/deps/escargot-d60a34f9c890599b.d: /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/lib.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/build.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/cargo.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/msg.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/run.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/error.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/mod.rs /home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/diagnostic.rs /mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/build/escargot-4fa151a6775ea908/out/current_target.txt
+
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/lib.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/build.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/cargo.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/msg.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/run.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/error.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/mod.rs:
+/home/thename/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/diagnostic.rs:
+/mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/build/escargot-4fa151a6775ea908/out/current_target.txt:
+
+# env-dep:OUT_DIR=/mnt/c/Users/PizzaHi5/git_clones/Solana-Encode-Bootcamp/target/debug/build/escargot-4fa151a6775ea908/out
