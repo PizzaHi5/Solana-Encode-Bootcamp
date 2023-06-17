@@ -9,7 +9,11 @@ Homework 13
     edition 2021 to rust-version 1.70.0 will not work because they do not mean the same
     thing. Changing the anchor-lang to 0.28.0 made it compile much faster however always
     compiled with an error. I am glad I got it working! 6/16/23
-    
+-   Tried setting up reading the setdata from the contract. Learned about 2 different
+    methods. One involving calling a getting function and another pulling the contract
+    data in and referencing it that way. Ran into a new error: 
+        Error: Invalid arguments: dataAccount not provided.
+    This is taking time to solve. 
 
 Lottery Program
 From the Bootcamp repo, anchor examples
