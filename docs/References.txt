@@ -1,0 +1,5 @@
+Solana Gaming Examples:
+https://github.com/solana-developers/solana-game-starter-kits/
+
+Shyft Resources: (simplifies SOL web3 development)
+https://shyft.to/
