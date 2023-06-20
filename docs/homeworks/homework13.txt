@@ -14,6 +14,10 @@ Homework 13
     data in and referencing it that way. Ran into a new error: 
         Error: Invalid arguments: dataAccount not provided.
     This is taking time to solve. 
+-   I have worked hard trying to get a valid transaction to occur. Put a bunch of work
+    into learning how to sign my own transaction with my personal private keypair instead
+    of using the provided programAddress. This did not solve my problem. I am bringing over
+    what I was able to accomplish. Moving on to the lottery program. 
 
 Lottery Program
 From the Bootcamp repo, anchor examples

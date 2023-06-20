@@ -3,3 +3,14 @@ https://github.com/solana-developers/solana-game-starter-kits/
 
 Shyft Resources: (simplifies SOL web3 development)
 https://shyft.to/
+
+Elusive: Private token transactions
+https://github.com/elusiv-privacy/elusiv-samples
+https://solana.fm/?cluster=mainnet-solanafmbeta
+docs.elusive.io
+https://github.com/elusiv-privacy/elusiv
+https://www.zeroknowledgeblog.com/index.php/groth16
+
+Durable Nonces: 
+https://github.com/0xproflupin/solana-durable-nonces/tree/main
+https://durable-nonces-demo.vercel.app/
