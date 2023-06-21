@@ -1,9 +1,11 @@
+6/19/23
 Solana Gaming Examples:
 https://github.com/solana-developers/solana-game-starter-kits/
 
 Shyft Resources: (simplifies SOL web3 development)
 https://shyft.to/
 
+6/20/23
 Elusive: Private token transactions
 https://github.com/elusiv-privacy/elusiv-samples
 https://solana.fm/?cluster=mainnet-solanafmbeta
@@ -14,3 +16,8 @@ https://www.zeroknowledgeblog.com/index.php/groth16
 Durable Nonces: 
 https://github.com/0xproflupin/solana-durable-nonces/tree/main
 https://durable-nonces-demo.vercel.app/
+
+6/21/23
+Solana Compression:
+https://github.com/solhosty/compression-nfts
+https://docs.solana.com/cli/install-solana-cli-tools
