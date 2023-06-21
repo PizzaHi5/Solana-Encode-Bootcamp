@@ -21,3 +21,9 @@ https://durable-nonces-demo.vercel.app/
 Solana Compression:
 https://github.com/solhosty/compression-nfts
 https://docs.solana.com/cli/install-solana-cli-tools
+
+6/22/23
+Pyth: Oracle Data Provider
+https://linktr.ee/pythnetwork
+https://github.com/pyth-network/pyth-sdk-rs
+https://pyth.network/developers
