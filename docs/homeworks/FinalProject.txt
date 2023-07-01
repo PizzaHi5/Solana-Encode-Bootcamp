@@ -1,0 +1,11 @@
+Final Project is in a separate repo:
+https://github.com/PizzaHi5/PyramidLottery
+
+With my team of 3, we looked at the concept of EigenLayer (an EVM
+smart contract protocol designed to allow restaking of onchain 
+assets) and applied it to a lottery system. Players can purchase
+tickets for one lottery and restake those onchain ticket assets 
+into another lottery! This was a fun project idea and I had a lot
+of fun presenting this to the group on the final day of class!
+
+A copy of the presentation is in docs/
