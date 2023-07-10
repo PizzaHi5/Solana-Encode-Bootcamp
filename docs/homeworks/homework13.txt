@@ -24,3 +24,6 @@ From the Bootcamp repo, anchor examples
 https://github.com/ExtropyIO/SolanaBootcamp/tree/main/examples_anchor
 1. Modify the lottery program so that the payout is only 90% of the total deposits.
 . Add a function that allows lottery admin to withdraw funds after the winner is picked.
+-   This program was completed and used in the final project! We took the lottery program
+    and repurposed it for incorporating EigenLayer restaking ticket system into. 
+    Reference the final project for this homework!

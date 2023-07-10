@@ -8,3 +8,6 @@ See env
 https://beta.solpg.io/
 https://doc.rust-lang.org/std/env/index.html
 
+-   Took a lot of hours after the class ended however I got it finished!
+    I am proud to finish this Rust homework. Developing a good understanding of rust! 
+    There are a lot of available packages/crates that do tons of different common needs.

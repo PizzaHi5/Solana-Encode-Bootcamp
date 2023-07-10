@@ -18,6 +18,8 @@ Try following the functionality it provides
 1. Make sure your wallet is connected to the dev network
 . Try the airdrop to give yourself some SOL
 . Try to sign a message
+-       All the tasks above were performed successfully! SOL is stored in my cli wallet
+        with pubkey: 9MHC1LAKQuXcUhy66pz75y4RBQeKS2Jw5bM2s8rgEd49
 
 Try altering the code to send a transaction to send to a hardcoded address
 You can create a public key from a String, such as
